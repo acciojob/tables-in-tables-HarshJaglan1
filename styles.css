@@ -1,2 +1,17 @@
-
 /* Your CSS Code here. */
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: center;
+}
+
+.black {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
